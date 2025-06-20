@@ -18,6 +18,14 @@ This is a simulated corporate network built in Cisco Packet Tracer, showcasing:
 | Router G0/0.10 | 10 | 192.168.10.1   | Gateway  |
 | Router G0/1.20 | 20 | 192.168.20.1   | Gateway  |
 
+## Skills Demonstrated
+- VLAN configuration
+- Cisco CLI basics
+- Inter-VLAN routing (router-on-a-stick)
+- Static IP planning and subnetting
+- Troubleshooting using ping and command-line tools
+- Physical topology design (rack layout)
+
 ## Usage
 To open the project:
 1. Open Cisco Packet Tracer
