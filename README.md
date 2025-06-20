@@ -9,9 +9,6 @@ This is a simulated corporate network built in Cisco Packet Tracer, showcasing:
 - Web server hosting and client access testing
 - Physical rack simulation and logical design
 
-## Network Diagram
-(Include screenshots or mention that they're attached)
-
 ## IP Addressing Scheme
 | Device       | VLAN | IP Address     | Role     |
 |--------------|------|----------------|----------|
